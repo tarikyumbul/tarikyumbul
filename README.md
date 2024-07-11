@@ -1,7 +1,3 @@
-## Welcome to My Profile
+## Hasan Tarık Yumbul
 
-Hasan Tarık Yumbul
-
-Computer Engineering Student at Marmara University
-
-Currently Working at THY Technology
+Welcome to my profile. I am currently studying Computer Engineering at Marmara University and working at THY Technology.
